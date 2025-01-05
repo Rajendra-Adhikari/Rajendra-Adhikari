@@ -1,10 +1,3 @@
-## Hi there👋 
-I'm Rajendra Adhikari
-<br>
-🌟 **A passionate Computer Engineering student exploring the world of technology.**
-<br>
-📍 Hailing from the Beautiful Far West region of Nepal 
-## Hi there👋 
 <h1 align="center">Hi 👋, I'm Rajendra Adhikari</h1>
 <h3 align="center">🌟A passionate computer Engineering student.📍 Hailing from beautiful far west Nepal</h3>
 <img align="right" alt ="coding" width="400" src="![alt text](image.png)>
